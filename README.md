@@ -7,13 +7,7 @@
 
 This repository contains the open-source framework for the **CHI '26 Best Paper 🏆: "Reacquainting with Everyday Urban Nature: Exploring Natural Soundscape Restoration with Personal Audio AR"**.
 
-<br>
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/8842ccc4-8131-4c30-ab37-ad836bf894eb" width="600" loop playsinline></video>
-</p>
-
-<br>
+https://github.com/user-attachments/assets/8842ccc4-8131-4c30-ab37-ad836bf894eb
 
 > 🚧 **Notice: Active Refactoring & Early Access** 🚧
 >
