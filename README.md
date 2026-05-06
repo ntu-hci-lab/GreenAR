@@ -3,7 +3,7 @@
 [![CHI'26 Best Paper](https://img.shields.io/badge/CHI'26-🏆%20Best%20Paper-80aa80)](https://doi.org/10.1145/3772318.3791961)
 [![License: MIT](https://img.shields.io/badge/License-MIT-7faeb3)](https://opensource.org/licenses/MIT)
 
-[Yu Chen](https://github.com/chenyutpe), [Yu-Cheng Chang](https://github.com/Malik705017), [Yu Lun Hsu](https://github.com/YuLunHsu0912), [Mike Y. Chen](https://mikechen.com/)
+[Yu Chen](https://github.com/chenyutpe), [Yu-Cheng Chang](https://github.com/Malik705017)\*, [Yu Lun Hsu](https://github.com/YuLunHsu0912)\*, [Mike Y. Chen](https://mikechen.com/)
 
 This repository contains the open-source framework for the **CHI '26 Best Paper 🏆: ["Reacquainting with Everyday Urban Nature: Exploring Natural Soundscape Restoration with Personal Audio AR"](https://doi.org/10.1145/3772318.3791961)**.
 
